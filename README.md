@@ -1,4 +1,4 @@
-# Mobile-Price-Classfier
+# Mobile-Price-Classifier
 It is a machine learning based project to solve the following problem
 
 Problem Description
