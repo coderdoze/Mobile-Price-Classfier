@@ -27,3 +27,5 @@ each data point in the test set use the model you trained to predict price range
 The training set contains 2000 data points. Each data point has 20 features and one target
 variable.
 The test set contains 1000 data points. Each data point has 20 features.
+
+These all things are just procedure, actual Machine Learning is quiet different from this.
