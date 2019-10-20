@@ -27,3 +27,4 @@ each data point in the test set use the model you trained to predict price range
 The training set contains 2000 data points. Each data point has 20 features and one target
 variable.
 The test set contains 1000 data points. Each data point has 20 features.
+This problem statement was published in Avishkar(annual technical festival of MNNIT Allahabad) 2017. It was published in the event Logical Rhythm.
